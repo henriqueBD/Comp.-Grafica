@@ -30,7 +30,7 @@
 
 ---
 
-### **2.2 Conceito da Animação **
+### **2.2 Conceito da Animação**
 
 > A animação apresenta uma guerreira atravessando a ponte da catedral após seu julgamento, buscando transmitir o peso do seu banimento de sua cidade natal e o inicio de sua jornada em busca de justiça.
 
@@ -41,5 +41,6 @@
 
 * **Problema:** Dificuldade no rig da animação.
   **Solução:** Pegar o modelo 3D na internet e fazer uma armature do personagem foi custoso, mas no final deu certo graças à vídeos no youtube.
+
 
 
