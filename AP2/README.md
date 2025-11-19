@@ -12,7 +12,7 @@
 * **Vídeo da Animação / Cena Interativa:**
 
   * Formato: `.mp4`
-  * Caminho do arquivo: `./animacao.mp4`
+  * Caminho do arquivo: `./animcao.mp4`
 
 ---
 
@@ -41,4 +41,5 @@
 
 * **Problema:** Dificuldade no rig da animação.
   **Solução:** Pegar o modelo 3D na internet e fazer uma armature do personagem foi custoso, mas no final deu certo graças à vídeos no youtube.
+
 
